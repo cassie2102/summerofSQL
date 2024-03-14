@@ -1,7 +1,7 @@
 
 
 
-/*
+/* The Data Source Bank case
 Requirements
 Input the data (help)
 Split the Transaction Code to extract the letters at the start of the transaction code. These identify the bank who processes the transaction (help)
